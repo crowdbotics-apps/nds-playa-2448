@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT nds_playa_2448.wsgi:application
